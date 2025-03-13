@@ -7,7 +7,7 @@ pool:
   vmImage: 'ubuntu-latest'
 
 variables:
-  azureSubscription: 'Azure Service Connection'
+  azureSubscription: '5461e8bf-f722-44f4-a98c-cd1cbc3194e1'
   acrName: 'myacrname'
   acrLoginServer: 'myacrname.azurecr.io'
   imageName: 'webapp'
