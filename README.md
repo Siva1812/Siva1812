@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Siva1812
-- 🌱 I’m currently learning ...DevOps
+- 🌱 DevOps Engineer
 - 📫 How to reach me ...Whatsapp
 - 😄 Pronouns: ...Siva
 
